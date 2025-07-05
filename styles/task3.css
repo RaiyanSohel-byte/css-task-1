@@ -1,0 +1,16 @@
+*{
+    background-image:url('/images/pexels-pixabay-531880.jpg');
+}
+#lorem{
+    color:white;
+    width:400px;
+
+}
+#ipsum{
+    color:white;
+    width:400px;
+}
+.heading{
+    color:white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
