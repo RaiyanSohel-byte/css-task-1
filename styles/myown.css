@@ -31,15 +31,21 @@
     
 }
 .text{
-    margin-right:80px;
+    margin-right:78px;
 }
 .text2{
     margin-right:50px;
 }
 .text3{
-    margin-left:5px;
+    margin-right:30px;
 }
 ::placeholder{
     padding:7px;
     font-size: smaller;
+}
+input[type="checkbox"]
+{
+    
+    margin-left:150px;
+    margin-top:30px;
 }
