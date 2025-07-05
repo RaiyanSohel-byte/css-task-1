@@ -1,0 +1,60 @@
+*{
+    font-family: 'Segoe UI', sans-serif;
+    background-image: url('/images/pexels-pixabay-531880.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    font-weight: bold;
+    
+}
+.div1{
+    
+    color:#000000;
+    font-weight: bold;
+   
+    padding:60px 20px;
+    text-align: center;
+    
+}
+.button{
+    background-color: white;
+    border: solid;
+    border-radius: 5px;
+    font-weight: bold;
+    color:#000000;
+    border-color: rgb(0, 0, 0);
+    text-align: center;
+    margin-left:218px;
+    margin-bottom:50px;
+
+
+
+
+}
+.div2{
+    padding-left:30px;
+}
+.div3{
+     padding-left:30px;
+}
+.div4{
+    padding-left:30px;
+}
+.div5{
+    background-color:#5f9ff3; 
+    height:40px;
+    font-size:small;
+    color:white;
+    text-align: center;
+    padding-top:2px;
+    padding-bottom:2px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,.5);
+    font-weight:bold;
+    border-radius: 10px;
+}
+.image{
+    height:100px;
+    width:100px;
+    border-radius: 50%;
+    
+}
